@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raven-Paw
 - 👀 I’m interested in Game dev currently
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning modding for minecraft
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -->
       FB: https://www.facebook.com/philipandrewferrer.24
