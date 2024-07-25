@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on web development projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -->
-      FB: https://www.facebook.com/philipandrewferrer.24
-      IN: linkedin.com/in/philip-andrew-ferrer-0a0460248
+      - FB: https://www.facebook.com/philipandrewferrer.24
+      - IN: linkedin.com/in/philip-andrew-ferrer-0a0460248
 
 <!---
 Raven-Paw/Raven-Paw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
